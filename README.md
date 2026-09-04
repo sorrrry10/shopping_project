@@ -1,6 +1,10 @@
 # shopping_project
 
-This template should help get you started developing with Vue 3 in Vite.
+## project introduce
+
+These is about a mall project.It is modeled after a project (that is in https://www.bilibili.com/video/BV1Ac411K7EQ/?spm_id_from=333.337.search-card.all.click&vd_source=e15045f909cb86d162a559c95a84ab3c).
+
+他是用来解决人们线下购物带来不方便的问题(长途跋涉错耗费大量时间，有许多人腿脚不便)，他是基于纯前端 SPA 架构（Vue 3 + Vite），数据通过 RESTful API 获取，构建产物为纯静态文件、可托管于 Nginx/CDN平且运行于web端，本地状态持久化（购物车与登录态刷新不丢失）+ 全链路类型安全 + 完整交易闭环，而非仅商品展示的静态 Demo。
 
 ## Recommended IDE Setup
 

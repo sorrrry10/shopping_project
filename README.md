@@ -10,11 +10,6 @@ These is about a mall project.It is modeled after a project (that is in https://
 
 ### Product Features
 
-| 1.    | 列1   | 列2   | 列3 |
-| ----- | ----- | ----- | --- |
-| 内容1 | 内容2 | 内容3 |
-| 内容4 | 内容5 | 内容6 |
-
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
